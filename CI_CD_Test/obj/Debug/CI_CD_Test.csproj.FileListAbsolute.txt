@@ -1,0 +1,8 @@
+c:\users\hrmv7\documents\visual studio 2013\Projects\CI_CD_Test\CI_CD_Test\bin\Debug\CI_CD_Test.exe.config
+c:\users\hrmv7\documents\visual studio 2013\Projects\CI_CD_Test\CI_CD_Test\bin\Debug\CI_CD_Test.exe
+c:\users\hrmv7\documents\visual studio 2013\Projects\CI_CD_Test\CI_CD_Test\bin\Debug\CI_CD_Test.pdb
+c:\users\hrmv7\documents\visual studio 2013\Projects\CI_CD_Test\CI_CD_Test\obj\Debug\CI_CD_Test.csprojResolveAssemblyReference.cache
+c:\users\hrmv7\documents\visual studio 2013\Projects\CI_CD_Test\CI_CD_Test\obj\Debug\CI_CD_Test.Properties.Resources.resources
+c:\users\hrmv7\documents\visual studio 2013\Projects\CI_CD_Test\CI_CD_Test\obj\Debug\CI_CD_Test.csproj.GenerateResource.Cache
+c:\users\hrmv7\documents\visual studio 2013\Projects\CI_CD_Test\CI_CD_Test\obj\Debug\CI_CD_Test.exe
+c:\users\hrmv7\documents\visual studio 2013\Projects\CI_CD_Test\CI_CD_Test\obj\Debug\CI_CD_Test.pdb
